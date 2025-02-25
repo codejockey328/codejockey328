@@ -1,0 +1,378 @@
+What is Data Classification?
+Data classification can be described as a best practice and as a process. It helps an organization understand the value of its information, determine whether the information is at risk, and implement controls to mitigate risks.
+
+Data Classification as a Best Practice
+Data classification provides structure, clarity, and control over Nutrien's data assets, allowing us to protect our information, fulfill compliance obligations, and support efficient information management processes. It also helps ensure the right security controls are applied to protect highly sensitive data from unauthorized access, data breaches, or misuse. 
+
+Data Classification as a Process
+When we refer to data classification as a process, it means tagging information according to its type, sensitivity, and value to the organization if that information were to be altered, stolen, or destroyed. 
+
+Classifying and labeling the documents and emails we create and work with helps keep Nutrien's sensitive information safe. 
+What Are Sensitivity Labels?
+Accessibility, Productivity and Security, balanced… 
+
+Sensitivity labels are like PPE (personal protective equipment). They are “stamps” that we apply to documents, files and emails to categorize and indicate (classify) their level of sensitivity. The stamp travels with the information everywhere it goes, helping employees and systems identify and handle sensitive information appropriately. 
+
+Labels are an added layer of protection to ensure the creator considers, and the end user is aware of, the sensitivity of the content being shared, stored or sent. They help us work safely and support our obligation to manage information responsibly, all without interrupting productivity or the flow of our work.
+
+Sensitivity labels are built into and work with the apps we already use (M365) to do our work and are based on Nutrien's Data Classification Framework. 
+
+Nutrien's Data Classification Framework
+
+Sensitivity labels are an easy way for everyone to “see” the sensitivity of content. Applying labels create visual markings that inform others of the sensitivity of the information, so they know to handle it accordingly.
+
+
+Effective December 16, 2024, footers will no longer be one of the visual markings that appear when applying sensitivity labels to new documents and emails. 
+Everyone at Nutrien needs to use sensitivity labels to manage and protect our information.
+The majority of Nutrien will see and use the Public, Internal and Confidential sensitivity labels. The Restricted label is reserved for business groups or specific users who work with highly sensitive information.  
+
+By using the labels, you give our Cybersecurity team the ability to monitor our sensitive information and deter unintentional sharing (proactively discover damaging insider threats).
+
+
+
+Data Classification & Sensitivity Labeling in M365-training30:27
+ON THIS PAGE...
+
+What are Sensitivity Labels?
+
+Get to Know Nutrien's Data Classification Framework
+
+Learn About Each Sensitivity Label
+
+SENSITIVITY LABELING GUIDE
+
+Troubleshooting & FAQ
+Click on the expandable sections below to learn more about each sensitivity label.
+
+Public Sensitivity Label
+Public is used to label information that would otherwise be freely accessible to the public.
+Think of the Public classification level as information that contains non-harmful, non-specific and very general common knowledge.
+
+Intended Use:
+
+Information that is common (public) knowledge or can be shared openly, internally and externally
+Public data that would be considered completely safe for external distribution 
+Visual Marking: Green shield icon at top of document/email
+
+Examples of materials considered Public: 
+
+new marketing materials
+press releases
+content that can be found on our public-facing websites
+contact lists approved for public consumption
+annual reports
+A Public label doesn’t necessarily mean this information must be communicated broadly. 
+It is intended to show that if this information were shared/leaked/stolen, etc., it would not pose a risk to Nutrien or our employees. If you are ever unsure whether to classify information as Public and downgrade the sensitivity level, it is likely best to just leave the Internal default label as-is (or reach out for help).
+
+
+Confidential Sensitivity Label
+This Confidential label is used to classify sensitive business information.
+This label represents information that, if compromised by a cyber breach or if leaked outside of Nutrien, could mean a risk to our collective (or individual) safety and security, or it could negatively affect business operations or corporate reputation. 
+
+Intended Use:
+
+Use when handling sensitive information intended for specific people, inside or outside of Nutrien
+Use for information that may contain customer or employee information, anything that if unintentionally was leaked may cause harm to Nutrien or our employees 
+This is the default label for business groups that regularly work with sensitive information.
+
+Visual Marking: Orange shield icon at top of document/email
+
+Examples of materials considered Confidential include: 
+
+passwords
+vendor contracts
+pricing lists
+financial accounting info
+new product specs or development information
+email from a leader about new workplace compliance guidelines
+content that contains personally identifiable information (PII) > names, addresses, social insurance numbers, ID or driver's license numbers, etc.
+
+Restricted Sensitivity Label
+The Restricted label is used to classify highly sensitive information. 
+As only a small percentage of our information at Nutrien falls into this classification level, only a handful of business groups will have it in their label options. 
+
+Intended Use:
+
+Information that only needs to be shared on a need-to-know basis
+Information, if leaked, could seriously impede Nutrien’s ongoing operations, cause reputational impacts to the Nutrien brand and/or affect our shareholders
+This label must be applied to highly sensitive information intended for specific people, inside or outside of Nutrien
+Visual Marking: Red shield icon at top of document/email
+
+Examples of materials considered Restricted include: 
+
+proprietary trade secrets
+new products formulas
+pre-merger and acquisition details
+employee medical records
+At Nutrien, we are all part of keeping our people, information and assets safe. We all contribute in our own way by taking simple actions.
+
+Get to know our data classification framework. 
+Create
+Data protection starts the moment you create a document.
+
+Assess
+Think critically about the sensitivity of your information. You are in the best position to assess your own work and understand its sensitivity requirements. 
+
+Classify
+Use your judgement to label the information accordingly. You know when your documents or emails contain personal information, financial data, trade secrets, etc. If a higher level of sensitivity needs to be applied, labels can be upgraded from the default. 
+
+Clarify
+If you are unsure, ask. Reach out to the Data Protection Project Team.
+
+SENSITIVITY LABELING GUIDE
+Your quick reference for data classification and sensitivity labeling in M365
+
+JUMP TO...
+
+Getting Started
+
+Quick Tip: The Sensitivity Bar
+
+Default Sensitivity Labels
+
+Applying Sensitivity Labels to Documents & Files
+
+Applying Labels to PDFs, Images & Multiple Files at Once
+
+Applying Sensitivity Labels to Emails
+Getting Started
+By now you should see the sensitivity labeling tool in your M365 applications (Outlook, Word, Excel, PowerPoint). The tool will appear along with the other tools on the right side of the MS Office ribbon (under the Home section). 
+
+When you click on the tool button, the dropdown menu will display three sensitivity labels: Public, Internal, Confidential*.
+
+When you hover over each label title, a tooltip will appear explaining when you would use each label.  
+
+ 
+
+NOTE: 
+
+If you do not see the sensitivity labeling tool in your M365 ribbon options (and the rest of your team can see them), reach out to dataprotect@nutrien.com so we can sort this out for you. 
+
+If you work with highly sensitive information and feel that you need the Restricted label, reach out to dataprotect@nutrien.com. 
+
+
+If you work in an area that manages highly sensitive information, you may also see a Restricted label in the options on the dropdown menu.
+
+
+*Business groups that use the Restricted label will have the Confidential sensitivity label as their default. 
+
+Default Sensitivity Label
+Nutrien's default sensitivity label for the majority of the organization is Internal*.
+
+This means if you don't select a sensitivity label when you save a document you've created, it will be automatically classified as Internal.
+
+It will also default to Internal when you create an email (it doesn't wait until you've sent the email). 
+
+*Business areas that manage highly sensitive information may have their default sensitivity label set to Confidential. 
+
+
+The Internal default sensitivity label shows as a yellow shield icon to the right of the document title.
+
+When creating new emails, the default label icon appears on the right side of the email
+If No Label Appears
+If no label appears on your document, it is likely because you are using an older file type. 
+
+You can fix this by clicking the “Convert” button in the dropdown. 
+
+Once you do that, your document will auto-classify as Internal (default) and you can adjust it accordingly. 
+
+
+Older file types need to be converted to support sensitivity labels.
+Quick Tip: The Sensitivity Bar
+The sensitivity bar is another way to see which sensitivity label has been applied to the document you are working on. This is also where the content owner can change the label if necessary. 
+
+You can access the sensitivity bar by clicking on the document title at the top of the screen. A popout will appear, with a colored icon, indicating the sensitivity setting. 
+
+
+The sensitivity bar makes it easy for you and others to see which label is applied to a file, 
+and to apply or change a label if you need to, including when saving the file.
+Visual Markings
+When you apply a sensitivity label to a document or email, a colored icon is applied. This visual marking play an important role in protecting information, as they are connected to backend data monitoring and reporting policies, alerting the Cybersecurity team of any suspicious activity. 
+
+
+Effective December 16, 2024, footers will no longer be one of the visual markings that appear when applying sensitivity labels to new documents and emails. 
+Colored Icon
+A colored shield icon is added to documents and emails when you apply a sensitivity label. 
+
+The data classification level depicts the color of the icon, as shown in Nutrien's Data Classification Framework.  
+
+You can easily identify the sensitivity of the information within a document or email by looking at the color of the icon. 
+
+If you forget to apply a sensitivity label to your document or email, the Internal sensitivity icon will automatically be applied (Confidential for Legal).
+
+
+
+
+Applying Sensitivity Labels to Documents
+To apply a sensitivity label to a document, use the sensitivity tool in the M365 ribbon toolbar (under Home). 
+
+Choose the sensitivity label that applies to your content. 
+
+If you do not choose a label, your document will be automatically classified as Internal (default label for most of Nutrien)
+
+Important: Not all content can be left as Internal. If you are working with sensitive information, ensure you apply the Confidential label to your document. 
+
+
+Public sensitivity label tooltip
+
+Internal sensitivity label tooltip
+
+Confidential sensitivity label tooltip
+Applying Sensitivity Labels to PDFs, Images & Multiple Files at Once
+Use the Microsoft Purview Information Protection (MIP) File Labeler to quickly classify and apply sensitivity labels to PDF files, images, text files, as well as multiple files at once.
+
+IMPORTANT NOTE: You need to be in File Explorer view to use this tool.
+
+To use the MIP File Labeler, you need to be in the File Explorer view. To navigate to this view, you first need to add a shortcut from the SharePoint site to OneDrive.
+
+STEP 1: Click on “Add shortcut to OneDrive”
+
+
+click to enlarge
+A pop-up message will appear, letting you know the shortcut has been created.
+
+
+STEP 2: Click on the OneDrive cloud icon in the bottom right of your screen (in the Windows task bar). 
+
+This will open your files in the File Explorer view and you'll be able to see the items you created a shortcut to. 
+
+
+click to enlarge
+
+STEP 3: Select the single file, group of files, or folder that you want to label, and then right click. 
+
+In the menu that appears, select “show more options”.
+
+
+click to enlarge
+Click Apply sensitivity label with Microsoft Purview.
+
+
+click to enlarge
+Note: When you select a folder, all the files in that folder and any sub-folders are also labeled. However, new files that are created in that folder or its sub-folders in the future will not be automatically labeled with the same classification.
+
+The Microsoft Purview File Labeler window will then appear.
+
+
+click to enlarge
+STEP 4: Select the sensitivity label you want to apply and then click the Apply button.
+
+Once the label has been applied, you will get a message notifying you that the label has been applied.  
+
+From here, you can exit the tool by clicking Close. You are all done!
+
+
+click to enlarge
+
+Applying Sensitivity Labels to Emails
+When creating a new email in Outlook, select the sensitivity icon to classify the content that will be contained within the message.
+
+
+Like documents, the default sensitivity label is set to Internal, and it is set as soon as you create a new email. 
+
+Sensitivity labels in emails cannot be applied to received emails, but if forwarding or replying, you can adjust the sensitivity if appropriate.
+You cannot modify the sensitivity label after an email has been sent. 
+The Recommendation Prompt 
+Sensitivity labeling has been configured within Nutrien’s environment to recommend applying the confidential sensitivity label when sensitive information has been detected (financial information, health information, sensitive technical information, etc.).
+
+When sensitive information is detected, the application will recommend that you update the sensitivity level to confidential to meet the requirements of the content’s sensitivity.
+
+To accept the recommendation, click “Apply sensitivity” or manually apply the label using the sensitivity labeling tool in the ribbon.
+
+In Outlook, this recommendation will appear as "Accept recommendation".
+
+In large documents it may be difficult to find the sensitive information. Click "Show sensitive information" to be directed to the location.
+
+graphical user interface, application, Word
+"Apply sensitivity" recommendation in documents (click to enlarge)
+
+"Accept recommendation" in Outlook (click to enlarge)
+graphical user interface, application, Word
+Finding sensitive information in large documents (click to enlarge)
+Changing or Modifying Sensitivity Labels
+If you are the content owner or have edit permissions, you can change the sensitivity label on a document if you need to. 
+
+Increasing Sensitivity (upgrading a label)
+
+Select a new label that is more sensitive than the current label (i.e. moving from internal to confidential).
+The new label will be applied as expected and will take on the configurations of the new label.
+Decreasing Sensitivity (downgrading a label)
+
+Select a new label that is less sensitive than the current label (i.e. moving from confidential to internal) or remove the label completely.
+When you remove a label or replace it with a label that has a lower sensitivity, you must provide a justification to perform this action. 
+
+Note: You will only be asked to justify changes one time after opening a document or replying or forwarding an email message. After justifying once, subsequent changes will not require justification until that document or email message is closed and opened again.
+
+Working With PDFs
+If you've labeled an email or document that you now need to convert to PDF, you may receive an error message. This is an expected behaviour. Here's how to troubleshoot.
+
+
+Navigate to...
+
+Printing a labeled document to a PDF
+
+Printing a labeled email to PDF
+Printing a labeled email to PDF
+ 
+
+1  First, check if you are using the new or old Outlook. You'll know you are in the old Outlook if you can see the “Try the new Outlook” message and toggle. 
+
+2  Move the toggle to “On” and then select “Switch” to use the new Outlook (you can switch back at any time). 
+
+
+3  Next, open the email you'd like to print to PDF and then click on the print icon. 
+
+
+4  In the print dialog box that comes up next, click the Print button. 
+
+
+5  Navigate to where you want to save your PDF and click Save.
+
+
+If you don't want to switch to new Outlook and would prefer to continue using the classic (old) version, you can still save your email but as a .msg format.
+1  Open the email you want to save and select File from the menu.
+
+
+2  Select “Save As”.
+
+
+3  Next, select a location to save your email. Keep the email subject as the file name or rename it as needed. Be sure to keep the file type as .msg and click Save. 
+
+
+4 If you selected your Documents or Downloads as your file save destination in the previous step, be sure to go back and move the file to a Nutrien-approved location (SharePoint). Doing this ensures that the file is protected, searchable and available to others (if needed). 
+
+ 
+
+If saving your email as a .msg is not acceptable and you have a business need to convert this message to a PDF, reach out to dataprotect@nutrien.com for support. 
+
+Printing a labeled document to PDF
+ 
+
+When converting labeled files to PDF from Word, Excel or PowerPoint, the sensitivity applied to the original document format is automatically preserved in the resulting PDF. This ensures your information stays protected throughout the conversion process.  
+
+Open the document you'd like to convert to PDF. From here, you have two options - you can use “Save a Copy” or “Export to PDF”. Both methods achieve the same goal.
+
+Save a Copy Option: 
+
+1  Click on File in the upper left corner of your document. 
+
+
+2  Select Save a Copy from the menu that appears. 
+
+
+3  Choose PDF from the available file types and keep the existing file name or change it as needed. The default save location will be the same as the original document, so be sure to change that if you need your PDF saved in a different location. Click Save to create the PDF. 
+
+
+Export to PDF Option:
+
+1  Click on File in the upper left corner.
+
+
+2  Next, select Export from the menu that appears. 
+
+
+3  Click on “Create PDF/XPS”. A dialogue box will appear asking where to save the PDF. By default, the PDF will save in the same location as the original document you are working with. If you need to save it in a different location, be sure to change it. 
+
+Keep the existing name or change it as required, and finally, click Publish to create your PDF. 
+
+
